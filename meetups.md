@@ -1,7 +1,7 @@
 Meetup CSS SP
 ======
 
-[Início](/) > Meetups
+[Início](README.md) > Meetups
 
 ## Lista dos Meetups já realizados.
 
