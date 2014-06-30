@@ -12,7 +12,7 @@ A idéia do repositório é reunir as principais informações, como links, foto
 
 ## Locais
 
-Se você estiver disposto a nos ajudar com locais para os _meetups_ fique a vontade. Não existe um padrão definido, mas acreditamos que para o _meetup_ ficar bacana, o local precisa:
+Se você estiver disposto a nos ajudar com locais para os _meetups_ fique a vontade. :v: Não existe um padrão definido, mas acreditamos que para o _meetup_ ficar bacana, o local precisa:
 
 * Ter suporte para pelo menos dez pessoas.
 * Ter suporte, caso o _meetup_  esteja programado com palestras
