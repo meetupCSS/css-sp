@@ -15,9 +15,13 @@ A idéia do repositório é reunir as principais informações, como links, foto
 Se você estiver disposto a nos ajudar com locais para os _meetups_ fique a vontade. :v: Não existe um padrão definido, mas acreditamos que para o _meetup_ ficar bacana, o local precisa:
 
 * Ter suporte para pelo menos dez pessoas.
-* Ter suporte, caso o _meetup_  esteja programado com palestras
+* Caso o _meetup_  esteja programado com palestras, ter suporte para isso, como um projetor e se for preciso microfone.
 
 Animou? Envie um e-mail pra gente _rapha.fabeni@gmail.com_ e ...
+
+### E o coffee?
+
+Não é obrigatório. Algumas empresas que cedem o espaço geralmente cedem algo, mas não é padrão. Se o local oferecer, ótimo; senão, os organizadores e a pessoa que sugeriu o local, podem organizar algo mais simples ou até mesmo, por meio de um aviso prévio, pedir uma ajuda simbólica para os partipantes do _meetup_ para ajuda nos custos.
 
 ## Como participo?
 
@@ -25,4 +29,4 @@ Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup
 
 ## Quero palestrar?
 
-Ainda não definimos um padrão para a submissão de palestras. Vamos definir isso no primeiro _meetup_.
+Iremos abrir um _Call4papers_ para podermos organizar todas as opções de palestras e dividirmos entre os _meetups_ de acordo com os assuntos escolhidos.
