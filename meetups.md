@@ -5,4 +5,4 @@ Meetup CSS SP
 
 ## Lista dos Meetups já realizados.
 
-* [01/08/2014 - Lugar X](/meetups/2014-08-01.md)
+* [08/08/2014 - Digital Garden](/meetups/2014-08-08.md)
