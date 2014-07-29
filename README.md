@@ -29,4 +29,4 @@ Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup
 
 ## Quero palestrar?
 
-Iremos abrir um _Call4papers_ para podermos organizar todas as opções de palestras e dividirmos entre os _meetups_ de acordo com os assuntos escolhidos.
+Tem vontade de apresentar uma talk? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1PMHgyHBhlcXkRbrff4CRheIoFVp7solcjhnUTDKe7Y4/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos separar todas as respostas e organizarmos de acordo com os assuntos escolhidos.
