@@ -17,7 +17,7 @@ Se você estiver disposto a nos ajudar com locais para os _meetups_ fique a vont
 * Ter suporte para pelo menos dez pessoas.
 * Caso o _meetup_  esteja programado com palestras, ter suporte para isso, como um projetor e se for preciso microfone.
 
-Animou? Envie um e-mail pra gente _rapha.fabeni@gmail.com_ e _hi@felipefialho.com_.
+Animou? Envie um e-mail pra gente _contato@raphaelfabeni.com.br_ e _hi@felipefialho.com_.
 
 ### E o coffee?
 
