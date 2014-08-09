@@ -9,4 +9,4 @@ Em breve! :calendar:
 
 ## Meetups já realizados
 
-* [*#01 - 08/08/2014](meetups/01.md)
+* [#01 - 08/08/2014](meetups/01.md)
