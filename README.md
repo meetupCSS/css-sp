@@ -1,6 +1,8 @@
 Meetup CSS SP
 ======
 
+[Apresentação do Meetup](https://speakerdeck.com/raphaelfabeni/bem-vindos-ao-meetp-css)
+
 _"De todos para todos!"_ Essa é idéia do [Meetup CSS](http://www.meetup.com/CSS-Brasil/) que surgiu da idéia de podermos trocar conhecimentos, aprender coisas novas e claro, conhecer novos profissionais e fortalecer a comunidade. É organizado atualmente por mim ([Raphael Fabeni](https://twitter.com/raphaelfabeni)) e pelo [Felipe Fialho](https://twitter.com/LFeh).
 A idéia do repositório é reunir as principais informações, como links, fotos e palestras, sobre os meetups. 
 
