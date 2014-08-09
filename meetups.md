@@ -5,11 +5,8 @@ Meetup CSS SP
 
 ## Próximo meetup
 
-* *Data:* 08/08/2014
-* *Tema*: O incrível CSS
-* *Local:* Digital Garden
-* *Endereço*: Rua Girassol, 983
-* *Participantes*: 30 pessoas
-* *Link do Meetup*: [Link](http://www.meetup.com/CSS-Brasil/events/194761202/) 
+Em breve! :calendar:
 
 ## Meetups já realizados
+
+* [*#01 - 08/08/2014](meetups/01.md)
