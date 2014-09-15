@@ -33,3 +33,17 @@ Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup
 ## Quero palestrar?
 
 Tem vontade de apresentar uma talk? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1PMHgyHBhlcXkRbrff4CRheIoFVp7solcjhnUTDKe7Y4/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos separar todas as respostas e organizarmos de acordo com os assuntos escolhidos.
+
+## Agradecimentos
+
+### Logo
+
+O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gostariamos de deixar registrado o nosso agradecimento pela contribuição.
+
+## Meetup #1
+
+Agradecemos a [Digital Garden](http://www.webcitizen.com.br/) por ceder o espaço e ao [Paypal](https://www.paypal-brasil.com.br/desenvolvedores/) por patrocinar o coffee break.
+
+## Meetup #2
+
+Agradecemos a [Lambda3](http://lambda3.com.br/) por ceder o espaço e ao [iMasters](http://imasters.com.br/) por patrocinar o coffee break.
