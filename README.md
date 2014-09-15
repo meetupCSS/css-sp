@@ -40,10 +40,10 @@ Tem vontade de apresentar uma talk? Maravilha. [Envie algumas informações pra 
 
 O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gostariamos de deixar registrado o nosso agradecimento pela contribuição.
 
-## Meetup #1
+### Meetup #1
 
 Agradecemos a [Digital Garden](http://www.webcitizen.com.br/) por ceder o espaço e ao [Paypal](https://www.paypal-brasil.com.br/desenvolvedores/) por patrocinar o coffee break.
 
-## Meetup #2
+### Meetup #2
 
 Agradecemos a [Lambda3](http://lambda3.com.br/) por ceder o espaço e ao [iMasters](http://imasters.com.br/) por patrocinar o coffee break.
