@@ -1,7 +1,5 @@
-Meetup CSS SP
-======
-
 ![CSS SP Logo](logo-csssp.png "CSS SP")
+======
 
 * [Apresentação do Meetup](https://speakerdeck.com/raphaelfabeni/bem-vindos-ao-meetp-css)
 * [Meetups já realizados](meetups.md)
