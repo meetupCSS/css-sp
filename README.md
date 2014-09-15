@@ -1,5 +1,5 @@
 Meetup CSS SP
-======
+====== 
 
 * [Apresentação do Meetup](https://speakerdeck.com/raphaelfabeni/bem-vindos-ao-meetp-css)
 * [Meetups já realizados](meetups.md)
@@ -25,7 +25,7 @@ Animou? Envie um e-mail pra gente _rapha.fabeni@gmail.com_ e _hi@felipefialho.co
 ### E o coffee?
 
 Não é obrigatório. Algumas empresas que cedem o espaço geralmente cedem algo, mas não é padrão. Se o local oferecer, ótimo; senão, os organizadores e a pessoa que sugeriu o local, podem organizar algo mais simples ou até mesmo, por meio de um aviso prévio, pedir uma ajuda simbólica para os partipantes do _meetup_ para ajuda nos custos.
-
+ 
 ## Como participo?
 
 Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup CSS](http://www.meetup.com/CSS-Brasil/). Lá estaremos divulgando as informações referentes aos próximos _meetups_.
