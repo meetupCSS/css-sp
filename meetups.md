@@ -1,8 +1,6 @@
 Meetup CSS SP
 ======
 
-![CSS SP Logo](logo-csssp.png "CSS SP")
-
 [Início](../README.md) > [Meetups](../meetups.md) > #01
 
 ## Próximo meetup

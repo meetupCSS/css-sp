@@ -1,11 +1,13 @@
 Meetup CSS SP
-====== 
+======
+
+![CSS SP Logo](logo-csssp.png "CSS SP")
 
 * [Apresentação do Meetup](https://speakerdeck.com/raphaelfabeni/bem-vindos-ao-meetp-css)
 * [Meetups já realizados](meetups.md)
 
 _"De todos para todos!"_ Essa é idéia do [Meetup CSS](http://www.meetup.com/CSS-Brasil/) que surgiu da idéia de podermos trocar conhecimentos, aprender coisas novas e claro, conhecer novos profissionais e fortalecer a comunidade. É organizado atualmente por mim ([Raphael Fabeni](https://twitter.com/raphaelfabeni)) e pelo [Felipe Fialho](https://twitter.com/LFeh).
-A idéia do repositório é reunir as principais informações, como links, fotos e palestras, sobre os meetups. 
+A idéia do repositório é reunir as principais informações, como links, fotos e palestras, sobre os meetups.
 
 * [Meetups](meetups.md)
 * [Locais](#locais)
@@ -25,7 +27,7 @@ Animou? Envie um e-mail pra gente _rapha.fabeni@gmail.com_ e _hi@felipefialho.co
 ### E o coffee?
 
 Não é obrigatório. Algumas empresas que cedem o espaço geralmente cedem algo, mas não é padrão. Se o local oferecer, ótimo; senão, os organizadores e a pessoa que sugeriu o local, podem organizar algo mais simples ou até mesmo, por meio de um aviso prévio, pedir uma ajuda simbólica para os partipantes do _meetup_ para ajuda nos custos.
- 
+
 ## Como participo?
 
 Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup CSS](http://www.meetup.com/CSS-Brasil/). Lá estaremos divulgando as informações referentes aos próximos _meetups_.
