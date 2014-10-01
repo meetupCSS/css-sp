@@ -1,7 +1,7 @@
 Meetup CSS SP
 ======
 
-[Início](../README.md) > [Meetups](../meetups.md) > #01
+[Início](../README.md) > Meetups
 
 ## Próximo meetup
 
