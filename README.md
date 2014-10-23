@@ -10,7 +10,7 @@ A idéia do repositório é reunir as principais informações, como links, foto
 * [Meetups](meetups.md)
 * [Locais](#locais)
 * [Como participo?](#como-participo)
-* [Quero palestrar?](#quero-palestrar)
+* [Quero palestrar!](#quero-palestrar)
 
 
 ## Locais
@@ -30,7 +30,7 @@ Não é obrigatório. Algumas empresas que cedem o espaço geralmente cedem algo
 
 Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup CSS](http://www.meetup.com/CSS-Brasil/). Lá estaremos divulgando as informações referentes aos próximos _meetups_.
 
-## Quero palestrar?
+## Quero palestrar!
 
 Tem vontade de apresentar uma talk? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1PMHgyHBhlcXkRbrff4CRheIoFVp7solcjhnUTDKe7Y4/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos separar todas as respostas e organizarmos de acordo com os assuntos escolhidos.
 
