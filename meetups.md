@@ -7,7 +7,11 @@ Meetup CSS SP
 
 :calendar:
 
-Em breve!
+* **Data:** 06/11/2014
+* **Local:** Caelum
+* **Endereço:** Rua Vergueiro, 3185
+* **Participantes:** 40 pessoas
+* **Link do Meetup:** [Link](http://www.meetup.com/CSS-SP/events/216166742/) 
 
 ## Meetups já realizados
 
