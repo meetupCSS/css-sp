@@ -7,7 +7,11 @@ Meetup CSS SP
 
 :calendar:
 
-Em breve!
+* **Data:** 03/12/2014
+* **Local:** Scup
+* **Endereço:** Av. Das Nações Unidas, 12.495 - 3º Andar (Próximo da estação Berrini)
+* **Participantes:** 40 pessoas
+* **Link do Meetup:** [Link](http://www.meetup.com/CSS-SP/events/218758081/) 
 
 ## Meetups já realizados
 
