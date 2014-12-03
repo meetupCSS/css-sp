@@ -34,6 +34,10 @@ Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup
 
 Tem vontade de apresentar uma talk? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1PMHgyHBhlcXkRbrff4CRheIoFVp7solcjhnUTDKe7Y4/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos separar todas as respostas e organizarmos de acordo com os assuntos escolhidos.
 
+## Como começamos
+
+Achou tudo uma loucura? Gostou? Quer tentar aplicar em outro local? Escrevemos um pequeno texto relacionado a [como iniciamos o projeto](inicio.md).
+
 ## Agradecimentos
 
 ### Logo
