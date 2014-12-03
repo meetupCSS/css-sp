@@ -45,6 +45,7 @@ O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gos
 Quem já nos ajudou :facepunch:
 
 * [Digital Garden](http://www.webcitizen.com.br/)
-* [Paypal](https://www.paypal-brasil.com.br/desenvolvedores/)
-* [Lambda3](http://lambda3.com.br/)
 * [iMasters](http://imasters.com.br/)
+* [Lambda3](http://lambda3.com.br/)
+* [Paypal](https://www.paypal-brasil.com.br/desenvolvedores/)
+* [Scup](http://www.scup.com/pt/)
