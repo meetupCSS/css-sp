@@ -24,7 +24,7 @@ Animou? Envie um e-mail pra gente _rapha.fabeni@gmail.com_ e _hi@felipefialho.co
 
 ### E o coffee?
 
-Não é obrigatório. Algumas empresas que cedem o espaço geralmente cedem algo, mas não é padrão. Se o local oferecer, ótimo; senão, os organizadores e a pessoa que sugeriu o local, podem organizar algo mais simples ou até mesmo, por meio de um aviso prévio, pedir uma ajuda simbólica para os partipantes do _meetup_ para ajuda nos custos.
+Não é obrigatório. Algumas empresas que cedem o espaço geralmente cedem algo, mas não é padrão. Se o local oferecer, ótimo; senão, os organizadores e a pessoa que sugeriu o local, podem organizar algo mais simples ou até mesmo, por meio de um aviso prévio, pedir uma ajuda simbólica para os partipantes do _meetup_ para ajuda nos custos. No entanto, o que gostamos de deixar claro é que o *coffee* tem que ser algo secundário em relação ao encontro e não ser a coisa principal.
 
 ## Como participo?
 
