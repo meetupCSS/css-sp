@@ -51,5 +51,5 @@ Quem já nos ajudou :facepunch:
 * [Digital Garden](http://www.webcitizen.com.br/)
 * [iMasters](http://imasters.com.br/)
 * [Lambda3](http://lambda3.com.br/)
-* [Paypal](https://www.paypal-brasil.com.br/desenvolvedores/)
+* [PayPal](https://www.paypal-brasil.com.br/desenvolvedores/)
 * [Scup](http://www.scup.com/pt/)
