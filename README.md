@@ -48,6 +48,7 @@ O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gos
 
 Quem já nos ajudou :facepunch:
 
+* [Caelum](https://www.caelum.com.br/)
 * [Digital Garden](http://www.webcitizen.com.br/)
 * [iMasters](http://imasters.com.br/)
 * [Lambda3](http://lambda3.com.br/)
