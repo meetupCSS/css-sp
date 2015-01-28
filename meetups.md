@@ -7,7 +7,11 @@ Meetup CSS SP
 
 :calendar:
 
-Em breve!
+* **Data:** 05/02/2015
+* **Local:** Quaddro Treinamentos		
+* **Endereço:** Alameda Santos, 1000		
+* **Participantes:** 20 pessoas
+* **Link do Meetup:** [Link](http://www.meetup.com/CSS-SP/events/220119108/)
 
 ## Meetups já realizados
 
