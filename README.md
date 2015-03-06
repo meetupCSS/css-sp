@@ -32,9 +32,9 @@ Não é obrigatório. Algumas empresas que cedem o espaço geralmente oferecem, 
 
 Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup CSS](http://www.meetup.com/CSS-Brasil/). Lá estaremos divulgando as informações referentes aos próximos _meetups_.
 
-## Quero palestrar!
+## Quero apresentar algo!
 
-Tem vontade de apresentar uma talk? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1PMHgyHBhlcXkRbrff4CRheIoFVp7solcjhnUTDKe7Y4/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos separar todas as respostas e organizarmos de acordo com os assuntos escolhidos.
+Tem vontade de apresentar uma talk sobre algum assunto de CSS? Ou tem algum bug que não consegue resolver e quer pedir uma força pra galera? Ou simplesmente viu algum link legal e quer divulgar pro pessoal discutir? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1PMHgyHBhlcXkRbrff4CRheIoFVp7solcjhnUTDKe7Y4/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos entrar em contato pra verificar sua disponibilidade na data do evento.
 
 ## Dúvidas?
 
@@ -56,6 +56,7 @@ Quem já nos ajudou :facepunch:
 
 * [Caelum](https://www.caelum.com.br/)
 * [Digital Garden](http://www.webcitizen.com.br/)
+* [Fast Commerce](http://www.fastcommerce.com.br/)
 * [iMasters](http://imasters.com.br/)
 * [Lambda3](http://lambda3.com.br/)
 * [PayPal](https://www.paypal-brasil.com.br/desenvolvedores/)
