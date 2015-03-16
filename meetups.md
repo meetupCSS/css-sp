@@ -12,8 +12,6 @@ Meetup CSS SP
 * *Participantes*: 35 pessoas
 * *Link do Meetup*: [Link](http://www.meetup.com/CSS-SP/events/220956075/) 
 
-Em breve!
-
 ## Meetups já realizados
 
 * [#05 - 05/02/2015](meetups/05.md)
