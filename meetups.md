@@ -5,12 +5,12 @@ Meetup CSS SP
 
 ## Próximo meetup
 
-* *Data:* 18/03/2015
-* *Tema*: Meetup #6
-* *Local:* Fast Commerce
-* *Endereço*: Av. Rouxinol, 1041
-* *Participantes*: 35 pessoas
-* *Link do Meetup*: [Link](http://www.meetup.com/CSS-SP/events/220956075/) 
+* **Data:** 18/03/2015
+* **Tema:** Meetup #6
+* **Local:** Fast Commerce
+* **Endereço:** Av. Rouxinol, 1041
+* **Participantes:** 35 pessoas
+* **Link do Meetup:** [Link](http://www.meetup.com/CSS-SP/events/220956075/) 
 
 ## Meetups já realizados
 
