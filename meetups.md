@@ -3,11 +3,11 @@ Meetup CSS SP
 
 [Início](../README.md) > Meetups
 
-## Próximo meetup
+## Próximo meetup :calendar:
 
-:calendar: Em breve! :)
+Em breve! 
 
-## Meetups já realizados
+## Meetups já realizados :ballot_box_with_check: :facepunch:
 
 * [#06 - 18/03/2015](meetups/06.md)
 * [#05 - 05/02/2015](meetups/05.md)
