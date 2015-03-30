@@ -12,7 +12,7 @@ A idéia do repositório é reunir as principais informações, como links, foto
 * [Meetups](meetups.md)
 * [Locais](#locais)
 * [Como participo?](#como-participo)
-* [Quero palestrar!](#quero-palestrar)
+* [Quero apresentar algo!](#quero-apresentar-algo)
 
 
 ## Locais
