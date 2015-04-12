@@ -5,15 +5,13 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-* **Data:** 10/04/2015
-* **Tema:** Meetup #7		
-* **Local:** Centro de Treinamento da Novatec
-* **Endereço:** Av. Cruzeiro do Sul, 2463 – sala 617		
-* **Participantes:** 40 pessoas
-* **Link do Meetup:** [Link](http://www.meetup.com/CSS-SP/events/221348953/) 
+** Em breve!**
+
+Acha que pode nos ajudar cedendo um local para o meetup? Fale com a gente => *meetup.css@gmail.com*
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#07 - 10/04/2015](meetups/07.md)
 * [#06 - 18/03/2015](meetups/06.md)
 * [#05 - 05/02/2015](meetups/05.md)
 * [#04 - 03/12/2014](meetups/04.md)
