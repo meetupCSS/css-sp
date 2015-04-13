@@ -4,10 +4,10 @@
 * [Apresentação do Meetup](https://speakerdeck.com/raphaelfabeni/bem-vindos-ao-meetp-css)
 * [Meetups já realizados](meetups.md)
 
-_"De todos para todos!"_ 
+_"De todos para todos!"_
 
-Essa é idéia do [Meetup CSS](http://www.meetup.com/CSS-Brasil/) que surgiu da idéia de podermos trocar conhecimentos, aprender coisas novas e claro, conhecer novos profissionais e fortalecer a comunidade. É organizado atualmente por mim ([Raphael Fabeni](https://twitter.com/raphaelfabeni)) e pelo [Felipe Fialho](https://twitter.com/LFeh).
-A idéia do repositório é reunir as principais informações, como links, fotos e palestras, sobre os meetups.
+Essa é a ideia do [Meetup CSS](http://www.meetup.com/CSS-Brasil/), que surgiu do pensamento de podermos trocar conhecimentos, aprender coisas novas e claro, conhecer novos profissionais e fortalecer a comunidade. É organizado atualmente por mim ([Raphael Fabeni](https://twitter.com/raphaelfabeni)) e pelo [Felipe Fialho](https://twitter.com/LFeh).
+O objetivo do repositório é reunir as principais informações, como links, fotos e palestras sobre os meetups.
 
 * [Meetups](meetups.md)
 * [Locais](#locais)
@@ -26,7 +26,7 @@ Animou? Envie um e-mail pra gente _rapha.fabeni@gmail.com_ e _hi@felipefialho.co
 
 ### E o coffee?
 
-Não é obrigatório. Algumas empresas que cedem o espaço geralmente oferecem, mas não é padrão. Se o local oferecer, ótimo; senão, os organizadores e a pessoa que sugeriu o local, podem organizar algo mais simples ou até mesmo, por meio de um aviso prévio, pedir uma ajuda simbólica para os partipantes do _meetup_ para ajuda nos custos. No entanto, o que gostamos de deixar claro é que o *coffee* tem que ser algo secundário em relação ao encontro e não ser a coisa principal.
+Não é obrigatório. Algumas empresas que cedem o espaço geralmente oferecem, mas não é padrão. Se o local oferecer, ótimo; senão, os organizadores e a pessoa que sugeriu o local podem organizar algo mais simples ou até mesmo, por meio de um aviso prévio, pedir uma ajuda simbólica para os partipantes do _meetup_ para ajudar nos custos. No entanto, o que gostamos de deixar claro é que o *coffee* tem que ser algo secundário em relação ao encontro e não ser a coisa principal.
 
 ## Como participo?
 
@@ -48,7 +48,7 @@ Achou tudo uma loucura? Gostou? Quer tentar aplicar em outro local? Escrevemos u
 
 ### Logo
 
-O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gostariamos de deixar registrado o nosso agradecimento pela contribuição.
+O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gostaríamos de deixar registrado o nosso agradecimento pela contribuição.
 
 ### Empresas parceiras
 
