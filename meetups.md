@@ -5,7 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-** Em breve!**
+** Em breve! **
 
 Acha que pode nos ajudar cedendo um local para o meetup? Fale com a gente => *meetup.css@gmail.com*
 
