@@ -24,5 +24,5 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 * [#05 | Quaddro Treinamentos - 05/02/2015](meetups/05.md)
 * [#04 | Scup - 03/12/2014](meetups/04.md)
 * [#03 | Caelum - 06/11/2014](meetups/03.md)
-* [#02 | Lamda 3 - 30/09/2014](meetups/02.md)
-* [#01 | Digital Garden - 08/08/2014](meetups/01.md)
+* [#02 | Lambda 3/iMasters - 30/09/2014](meetups/02.md)
+* [#01 | Digital Garden/PayPal - 08/08/2014](meetups/01.md)
