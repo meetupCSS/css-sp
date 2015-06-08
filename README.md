@@ -55,6 +55,7 @@ O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gos
 Quem já nos ajudou :facepunch:
 
 * [Caelum](https://www.caelum.com.br/)
+* [D3](http://d3.do/)
 * [Digital Garden](http://www.webcitizen.com.br/)
 * [Fast Commerce](http://www.fastcommerce.com.br/)
 * [iMasters](http://imasters.com.br/)
