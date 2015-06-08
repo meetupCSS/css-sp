@@ -5,9 +5,17 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-*Em breve!*
+** Meetup #8**
 
-Acha que pode nos ajudar colaborando com o local para o meetup? Fale com a gente => *meetup.css@gmail.com*
+* **Data:** 11/06/2015
+* **Local:** D3
+* **Endereço:** Av. Paulista, 1754 - Bela Vista
+* **Participantes:** 25 pessoas
+* **Link do Meetup:** [Link](http://www.meetup.com/CSS-SP/events/222938266/) 
+
+---------------------------------------
+
+Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale com a gente => *meetup.css@gmail.com*
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
