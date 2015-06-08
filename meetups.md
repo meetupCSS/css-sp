@@ -5,7 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-** Meetup #8**
+**Meetup #8**
 
 * **Data:** 11/06/2015
 * **Local:** D3
