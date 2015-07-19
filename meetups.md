@@ -5,7 +5,13 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-*Em breve!*
+**Meetup #9**
+		
+* **Data:** 22/07/2015
+* **Local:** R7
+* **Endereço:** Rua da Várzea, 240 - Barra Funda
+* **Participantes:** 60 pessoas
+* **Link do Meetup:** [Link](http://www.meetup.com/pt/CSS-SP/events/223675287/) 
 
 ---------------------------------------
 
