@@ -62,4 +62,5 @@ Quem já nos ajudou :facepunch:
 * [Lambda3](http://lambda3.com.br/)
 * [PayPal](https://www.paypal-brasil.com.br/desenvolvedores/)
 * [Quaddro](http://www.quaddro.com.br/)
+* [R7](http://www.r7.com/)
 * [Scup](http://www.scup.com/pt/)
