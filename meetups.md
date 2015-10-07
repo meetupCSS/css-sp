@@ -5,7 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-**Meetup #10**	Edição especial de 1 ano!* :wine_glass:
+**Meetup #10**	*Edição especial de 1 ano!* :wine_glass:
 				
 * **Data:** 20/10/2015		
 * **Local:** Locaweb
