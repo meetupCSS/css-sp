@@ -5,13 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-**Meetup #10**	*Edição especial de 1 ano!* :wine_glass:
-				
-* **Data:** 20/10/2015		
-* **Local:** Locaweb
-* **Endereço:** Rua Itapaiúna, 2434
-* **Participantes:** 50 pessoas		
-* **Link do Meetup:** [Link](http://www.meetup.com/pt/CSS-SP/events/225755287/?eventId=225755287) 
+Em breve! :calendar: 
 
 ---------------------------------------
 
@@ -19,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#10 | Locaweb - 20/10/2015](meetups/10.md)
 * [#09 | R7 - 22/07/2015](meetups/09.md)
 * [#08 | D3 - 11/06/2015](meetups/08.md)
 * [#07 | Centro de Treinamento Novatec - 10/04/2015](meetups/07.md)
