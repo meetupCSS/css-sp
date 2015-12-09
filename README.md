@@ -65,3 +65,4 @@ Quem já nos ajudou :facepunch:
 * [Quaddro](http://www.quaddro.com.br/)
 * [R7](http://www.r7.com/)
 * [Scup](http://www.scup.com/pt/)
+* [VivaReal](http://www.vivareal.com.br/)
