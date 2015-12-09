@@ -5,7 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-**Meetup #11** Última de 2015!* :wine_glass:
+**Meetup #11** Última edição de 2015!* :wine_glass:
        
 * **Data:** 09/12/2015   
 * **Local:** VivaReal
