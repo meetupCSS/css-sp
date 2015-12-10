@@ -5,13 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-**Meetup #11** Última edição de 2015!* :wine_glass:
-       
-* **Data:** 09/12/2015   
-* **Local:** VivaReal
-* **Endereço:** Rua Bela Cintra, 539 - Consolação
-* **Participantes:** 50 pessoas    
-* **Link do Meetup:** [Link](http://www.meetup.com/pt/CSS-SP/events/227055481/)
+-Em breve! :calendar: 
 
 ---------------------------------------
 
@@ -19,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#11 | VivaReal - 09/12/2015](meetups/11.md)
 * [#10 | Locaweb - 20/10/2015](meetups/10.md)
 * [#09 | R7 - 22/07/2015](meetups/09.md)
 * [#08 | D3 - 11/06/2015](meetups/08.md)
