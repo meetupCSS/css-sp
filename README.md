@@ -13,7 +13,8 @@ O objetivo do repositório é reunir as principais informações, como links, fo
 * [Locais](#locais)
 * [Como participo?](#como-participo)
 * [Quero apresentar algo!](#quero-apresentar-algo)
-
+* [Agradecimentos](#agradecimentos)
+* [Feedback](https://meetupcss.typeform.com/to/MS87CV)
 
 ## Locais
 
@@ -43,6 +44,10 @@ Tem alguma dúvida sobre o meetup? Confirmações, listas, faltas. [Saiba mais a
 ## Como começamos
 
 Achou tudo uma loucura? Gostou? Quer tentar aplicar em outro local? Escrevemos um pequeno texto relacionado a [como iniciamos o projeto](inicio.md).
+
+## Feedback
+
+O meetup é de todos e por isso nossa idéia é melhorá-lo sempre. Pra isso criamos uma [pesquisa rápida](https://meetupcss.typeform.com/to/MS87CV) para que possamos saber exatamente o que estamos acertando e errando.
 
 ## Agradecimentos
 
