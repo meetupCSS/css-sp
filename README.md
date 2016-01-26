@@ -35,7 +35,7 @@ Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup
 
 ## Quero apresentar algo!
 
-Tem vontade de apresentar uma talk sobre algum assunto de CSS? Ou tem algum bug que não consegue resolver e quer pedir uma força pra galera? Ou simplesmente viu algum link legal e quer divulgar pro pessoal discutir? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1PMHgyHBhlcXkRbrff4CRheIoFVp7solcjhnUTDKe7Y4/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos entrar em contato pra verificar sua disponibilidade na data do evento.
+Tem vontade de apresentar uma talk sobre algum assunto de CSS? Ou tem algum bug que não consegue resolver e quer pedir uma força pra galera? Ou simplesmente viu algum link legal e quer divulgar pro pessoal discutir? Maravilha. [Envie algumas informações pra gente através desse link](http://bit.ly/meetup-css-quero-palestrar) e assim que tivermos o próximo _meetup_ confirmado, iremos entrar em contato pra verificar sua disponibilidade na data do evento.
 
 ## Dúvidas?
 
