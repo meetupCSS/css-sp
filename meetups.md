@@ -5,13 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-**Meetup #12**
-
-* **Data:** 26/01/2016		
-* **Local:** Scup
-* **Endereço:** Av. Das Nações Unidas, 8.501 - 24º Andar
-* **Participantes:** 50 pessoas
-* **Link do Meetup:** [Link](http://www.meetup.com/pt-BR/CSS-SP/events/228073659/)
+*Em breve!*
 
 ---------------------------------------
 
@@ -19,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#11 | Scup - 26/01/2016](meetups/12.md)
 * [#11 | VivaReal - 09/12/2015](meetups/11.md)
 * [#10 | Locaweb - 20/10/2015](meetups/10.md)
 * [#09 | R7 - 22/07/2015](meetups/09.md)
