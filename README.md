@@ -59,6 +59,7 @@ O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gos
 
 Quem já nos ajudou :facepunch:
 
+* [BankFacil](https://www.bankfacil.com.br/)
 * [Caelum](https://www.caelum.com.br/)
 * [D3](http://d3.do/)
 * [Digital Garden](http://www.webcitizen.com.br/)
