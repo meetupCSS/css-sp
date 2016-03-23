@@ -65,6 +65,7 @@ Quem já nos ajudou :facepunch:
 * [Digital Garden](http://www.webcitizen.com.br/)
 * [Fast Commerce](http://www.fastcommerce.com.br/)
 * [iMasters](http://imasters.com.br/)
+* [JustDigital](http://www.justdigital.com.br/)
 * [Lambda3](http://lambda3.com.br/)
 * [Locaweb](http://www.locaweb.com.br/default.html)
 * [PayPal](https://www.paypal-brasil.com.br/desenvolvedores/)
