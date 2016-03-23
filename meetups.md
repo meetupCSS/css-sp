@@ -5,13 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-**Meetup #14**
-    
-* **Data:** 22/03/2016     
-* **Local:** Just Digital
-* **Endereço:** Rua Enxovia, 472
-* **Participantes:** 35 pessoas
-* [Link do meetup](http://www.meetup.com/pt-BR/CSS-SP/events/229469361/)
+*Em breve!*
 
 ---------------------------------------
 
@@ -19,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#14 | JustDigital - 22/03/2016](meetups/14.md)
 * [#13 | BankFacil - 25/02/2016](meetups/13.md)
 * [#12 | Scup - 26/01/2016](meetups/12.md)
 * [#11 | VivaReal - 09/12/2015](meetups/11.md)
