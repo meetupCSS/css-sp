@@ -5,7 +5,13 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-*Em breve!*
+ ## Próximo meetup :calendar:
+     
+ * **Data:** 03/05/2016     
+ * **Local:** Elo7
+ * **Endereço:** Rua Beira Rio, 57
+ * **Participantes:** 40 pessoas
+ * [Link do meetup](http://www.meetup.com/pt-BR/CSS-SP/events/230517971/)
 
 ---------------------------------------
 
