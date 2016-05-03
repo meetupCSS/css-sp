@@ -63,6 +63,7 @@ Quem já nos ajudou :facepunch:
 * [Caelum](https://www.caelum.com.br/)
 * [D3](http://d3.do/)
 * [Digital Garden](http://www.webcitizen.com.br/)
+* [Elo7](http://www.elo7.com.br/)
 * [Fast Commerce](http://www.fastcommerce.com.br/)
 * [iMasters](http://imasters.com.br/)
 * [JustDigital](http://www.justdigital.com.br/)
