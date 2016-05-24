@@ -73,4 +73,5 @@ Quem já nos ajudou :facepunch:
 * [Quaddro](http://www.quaddro.com.br/)
 * [R7](http://www.r7.com/)
 * [Scup](http://www.scup.com/pt/)
+* [Vagas Tecnologia](http://www.vagas.com.br)
 * [VivaReal](http://www.vivareal.com.br/)
