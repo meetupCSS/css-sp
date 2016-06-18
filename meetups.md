@@ -5,7 +5,11 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-*em breve!*
+* **Data:** 30/06/2016     
+* **Local:** Google Brasil
+* **Endereço:** Avenida Brigadeiro Faria Lima, 3477
+* **Participantes:** 150 pessoas
+* [Link do meetup](http://www.meetup.com/pt-BR/CSS-SP/events/231719368/)
 
 ---------------------------------------
 
