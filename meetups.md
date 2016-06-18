@@ -13,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#16 | Vagas.com - 24/05/2016](meetups/16.md)
 * [#15 | Elo7 - 03/05/2016](meetups/15.md)
 * [#14 | JustDigital - 22/03/2016](meetups/14.md)
 * [#13 | BankFacil - 25/02/2016](meetups/13.md)
