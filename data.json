@@ -1,8 +1,20 @@
 {
 	"users": 1192,
-	"editions": 17,
-	"local": {
-		"latitude": -23.534321,
-		"longitude": -46.695524
-	}
+	"total_editions": 17,
+	"editions": [
+		{
+			id: 1,
+			local: {
+				"latitude": -23.550668,
+				"longitude": -46.692503
+			}
+		},
+		{
+			id: 2,
+			local: {
+				"latitude": -23.552034,
+				"longitude": -46.661350
+			}
+		}
+	]
 }
