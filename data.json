@@ -1,18 +1,8 @@
 {
 	"users": 1192,
 	"editions": 17,
-	"participants": [
-		{
-			"edition": 1,
-			"total": 30
-		},
-		{
-			"edition": 2,
-			"total": 50
-		},
-		{
-			"edition": 3,
-			"total": 15
-		}
-	]
+	"local": {
+		"latitude": -23.534321,
+		"longitude": -46.695524
+	}
 }
