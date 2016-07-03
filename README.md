@@ -65,6 +65,7 @@ Quem já nos ajudou :facepunch:
 * [Digital Garden](http://www.webcitizen.com.br/)
 * [Elo7](http://www.elo7.com.br/)
 * [Fast Commerce](http://www.fastcommerce.com.br/)
+* [Google](http://www.google.com.br)
 * [iMasters](http://imasters.com.br/)
 * [JustDigital](http://www.justdigital.com.br/)
 * [Lambda3](http://lambda3.com.br/)
