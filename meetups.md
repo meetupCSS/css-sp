@@ -5,7 +5,11 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-*Em breve*
+* **Data:** 21/07/2016
+* **Local:** AMARO
+* **Endereço:** Rua Antonio Nagib Ibrahi, 30
+* **Participantes:** 30 pessoas		
+* [Link do meetup](http://www.meetup.com/pt-BR/CSS-SP/events/232545681/)
 
 ---------------------------------------
 
