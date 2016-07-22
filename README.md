@@ -23,7 +23,7 @@ Se você estiver disposto a nos ajudar com locais para os _meetups_ fique a vont
 * Ter suporte para pelo menos dez pessoas.
 * Caso o _meetup_  esteja programado com palestras, ter suporte para isso, como um projetor e se for preciso microfone.
 
-Animou? Envie um e-mail pra gente _meetup.css@gmail.com_.
+Animou? [Fale com a gente](http://bit.ly/meetup-css-quero-sediar).
 
 ### E o coffee?
 
