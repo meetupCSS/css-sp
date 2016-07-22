@@ -13,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#18 | AMARO Moda - 21/06/2016](meetups/18.md)
 * [#17 | Google Brasil - 30/05/2016](meetups/17.md)
 * [#16 | Vagas.com - 24/05/2016](meetups/16.md)
 * [#15 | Elo7 - 03/05/2016](meetups/15.md)
