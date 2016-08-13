@@ -51,13 +51,18 @@ O meetup é de todos e por isso nossa idéia é melhorá-lo sempre. Pra isso cri
 
 ## Agradecimentos
 
+### Parcerias
+
+#### [GeekHunter](http://www.geekhunter.com.br/)
+
+A GeekHunter tem a missão de encontrar as mais desejadas oportunidades de trabalho.
+Atualmente focada em profissionais na área de TI, nossa plataforma testa e seleciona os melhores desenvolvedores de software do mercado e os conecta com as mais desejadas empresas de tecnologia.
+
 ### Logo
 
 O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gostaríamos de deixar registrado o nosso agradecimento pela contribuição.
 
-### Empresas parceiras
-
-Quem já nos ajudou :facepunch:
+### Empresas que já nos ajudaram :facepunch:
 
 * [AMARO](https://amaro.com/)
 * [BankFacil](https://www.bankfacil.com.br/)
