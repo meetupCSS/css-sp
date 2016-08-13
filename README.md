@@ -53,7 +53,7 @@ O meetup é de todos e por isso nossa idéia é melhorá-lo sempre. Pra isso cri
 
 ### Parcerias
 
-[![geekhunter-logo](https://cloud.githubusercontent.com/assets/1345662/17644583/0f4a85a8-6161-11e6-9125-353f84871727.png)](http://www.geekhunter.com.br/)
+#### [![geekhunter-logo](https://cloud.githubusercontent.com/assets/1345662/17644583/0f4a85a8-6161-11e6-9125-353f84871727.png)](http://www.geekhunter.com.br/)
 
 *A [GeekHunter](http://www.geekhunter.com.br/) tem a missão de encontrar as mais desejadas oportunidades de trabalho.
 Atualmente focada em profissionais na área de TI, nossa plataforma testa e seleciona os melhores desenvolvedores de software do mercado e os conecta com as mais desejadas empresas de tecnologia.*
