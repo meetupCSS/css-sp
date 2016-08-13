@@ -5,7 +5,11 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-*Em breve*
+* **Data:** 25/08/2016
+* **Local:** Caelum
+* **Endereço:** Rua Vergueiro, 3185
+* **Participantes:** 40 pessoas       
+* [Link do meetup](http://www.meetup.com/pt-BR/CSS-SP/events/233231383/)
 
 ---------------------------------------
 
