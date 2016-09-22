@@ -81,6 +81,7 @@ O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gos
 * [PayPal](https://www.paypal-brasil.com.br/desenvolvedores/)
 * [Quaddro](http://www.quaddro.com.br/)
 * [R7](http://www.r7.com/)
+* [ReclameAqui](http://www.reclameaqui.com.br/)
 * [Scup](http://www.scup.com/pt/)
 * [Vagas Tecnologia](http://www.vagas.com.br)
 * [VivaReal](http://www.vivareal.com.br/)
