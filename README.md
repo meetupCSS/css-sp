@@ -59,6 +59,10 @@ O meetup é de todos e por isso nossa idéia é melhorá-lo sempre. Pra isso cri
 *A [GeekHunter](http://www.geekhunter.com.br/) tem a missão de encontrar as mais desejadas oportunidades de trabalho.
 Atualmente focada em profissionais na área de TI, nossa plataforma testa e seleciona os melhores desenvolvedores de software do mercado e os conecta com as mais desejadas empresas de tecnologia.*
 
+<div id="caelum"></div>
+
+[![caelum](https://cloud.githubusercontent.com/assets/1345662/19710149/f55f1a76-9b0a-11e6-8529-9247713feb40.png)](https://www.caelum.com.br/)
+
 ### Logo
 
 O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gostaríamos de deixar registrado o nosso agradecimento pela contribuição.
@@ -83,5 +87,6 @@ O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gos
 * [R7](http://www.r7.com/)
 * [Reclame AQUI](http://www.reclameaqui.com.br/)
 * [Scup](http://www.scup.com/pt/)
+* [ThoughtWorks](https://www.thoughtworks.com/pt)
 * [Vagas Tecnologia](http://www.vagas.com.br)
 * [VivaReal](http://www.vivareal.com.br/)
