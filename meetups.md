@@ -13,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#21 | ThoughtWorks - 25/10/2016](meetups/21.md)
 * [#20 | Reclame AQUI - 22/09/2016](meetups/20.md)
 * [#19 | Caelum - 25/08/2016](meetups/19.md)
 * [#18 | AMARO Moda - 21/06/2016](meetups/18.md)
