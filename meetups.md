@@ -5,10 +5,7 @@ Meetup CSS SP
 
 ## Próximo meetup :calendar:
 
-* *Data:* 29/11/2016
-* *Local:* Direct Talk
-* *Endereço*:  R. Geraldo Flausino Gomes, 61 
-* [Mais infos](https://www.meetup.com/pt-BR/CSS-SP/events/235413480/?eventId=235413480)
+*Em breve*
 
 ---------------------------------------
 
@@ -16,6 +13,7 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
+* [#22 | DirectTalk - 29/11/2016](meetups/22.md)
 * [#21 | ThoughtWorks - 25/10/2016](meetups/21.md)
 * [#20 | Reclame AQUI - 22/09/2016](meetups/20.md)
 * [#19 | Caelum - 25/08/2016](meetups/19.md)
