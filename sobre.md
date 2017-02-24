@@ -24,6 +24,8 @@ Atualmente, utilizamos a plataforma do Meetup para controle das edições e list
 * Claro que imprevistos acontecem e sempre costumamos analisar caso a caso. No entanto, no últimos meetups tivemos alguns problemas recorrentes em relação a isso, onde muitas desistências de última hora acabaram retirando a possibilidade de participação de outras pessoas que tinham também a intenção de ir ao meetup.
 * A partir do momento que a lista é fechada (24 horas antes da edição) e o participante cancelar sua inscrição ou não aparecer ao meetup sem um prévio aviso aos organizadores, este será banido por 3 edições a partir da edição consecutiva.
 
-## Uma ideia para código de conduta
+## Código de conduta
+
+Nós do meetup CSS tentamos ao máximo incentivar a comunidade ao máximo, sem qualquer distinção, para participar. Nosso objetivo é criar um ambiente agradável onde possa reinar o respeito, sem qualquer tipo de ofensa, piada ou atitude relacionada à preconceito.
 
 Atualmente nos baseamos no código de conduta da [Bocoup](http://bocoup.com/pt-BR/comunidade/conduta/) nas edições do meetup.
