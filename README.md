@@ -15,6 +15,7 @@ O objetivo do repositório é reunir as principais informações, como links, fo
 * [Quero apresentar algo!](#quero-apresentar-algo)
 * [Agradecimentos](#agradecimentos)
 * [Feedback](https://meetupcss.typeform.com/to/MS87CV)
+* [Cdigo de conduta](/sobre.md#código-de-conduta)
 
 ## Locais
 
@@ -39,7 +40,7 @@ Tem vontade de apresentar uma talk sobre algum assunto de CSS? Ou tem algum bug 
 
 ## Dúvidas?
 
-Tem alguma dúvida sobre o meetup? Confirmações, listas, faltas. [Saiba mais aqui](conduta.md).
+Tem alguma dúvida sobre o meetup? Confirmações, listas, faltas. [Saiba mais aqui](sobre.md).
 
 ## Como começamos
 
