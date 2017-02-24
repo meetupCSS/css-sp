@@ -26,6 +26,6 @@ Atualmente, utilizamos a plataforma do Meetup para controle das edições e list
 
 ## Código de conduta
 
-Nós do meetup CSS tentamos ao máximo incentivar a comunidade ao máximo, sem qualquer distinção, para participar. Nosso objetivo é criar um ambiente agradável onde possa reinar o respeito, sem qualquer tipo de ofensa, piada ou atitude relacionada à preconceito.
+Nós do meetup CSS tentamos ao máximo incentivar toda a comunidade, sem qualquer distinção, para participar das ediçes. Nosso objetivo é criar um ambiente agradável onde possa reinar o respeito, sem qualquer tipo de ofensa, piada ou atitude relacionada à preconceito.
 
 Atualmente nos baseamos no código de conduta da [Bocoup](http://bocoup.com/pt-BR/comunidade/conduta/) nas edições do meetup.
