@@ -84,6 +84,7 @@ O logo foi desenvolvido pelo [Fernando Capeto](http://fernandocapeto.com/) e gos
 * [Lambda3](http://lambda3.com.br/)
 * [Locaweb](http://www.locaweb.com.br/default.html)
 * [Direct Talk](https://www.directtalk.com.br/)
+* [Pagar.me](https://pagar.me/)
 * [PayPal](https://www.paypal-brasil.com.br/desenvolvedores/)
 * [Quaddro](http://www.quaddro.com.br/)
 * [R7](http://www.r7.com/)
