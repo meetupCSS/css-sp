@@ -55,6 +55,7 @@ O meetup é de todos e por isso nossa idéia é melhorá-lo sempre. Pra isso cri
 ### Parcerias
 
 <div id="geekhunter"></div>
+
 [![geekhunter-logo](https://cloud.githubusercontent.com/assets/1345662/17644583/0f4a85a8-6161-11e6-9125-353f84871727.png)](http://www.geekhunter.com.br/)
 
 *A [GeekHunter](http://www.geekhunter.com.br/) tem a missão de encontrar as mais desejadas oportunidades de trabalho.
