@@ -56,10 +56,11 @@ O meetup é de todos e por isso nossa idéia é melhorá-lo sempre. Pra isso cri
 
 <div id="geekhunter"></div>
 
-[![geekhunter-logo](https://cloud.githubusercontent.com/assets/1345662/17644583/0f4a85a8-6161-11e6-9125-353f84871727.png)](http://www.geekhunter.com.br/)
+[![geekhunter-logo](https://d4zjpv0aa4kr2.cloudfront.net/assets/logos/geekhunter-vertical-4aa5e7d1665cb6d557d6761bf41d1673db158227a0b2091b9ee3233a34ccb2dd.svg)](http://www.geekhunter.com.br/)
 
-*A [GeekHunter](http://www.geekhunter.com.br/) tem a missão de encontrar as mais desejadas oportunidades de trabalho.
-Atualmente focada em profissionais na área de TI, nossa plataforma testa e seleciona os melhores desenvolvedores de software do mercado e os conecta com as mais desejadas empresas de tecnologia.*
+*A [GeekHunter](http://www.geekhunter.com.br/) inverte o processo de seleção! Em vez de desenvolvedores se candidatarem a empregos, as empresas enviam convites de entrevista já com a faixa salarial pré-definida. Tudo isso 100% online e gratuito para candidatos.*
+
+*Aqui é o emprego dos seus sonhos que vem até você!*
 
 <div id="caelum"></div>
 
