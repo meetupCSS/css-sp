@@ -1,7 +1,7 @@
 Meetup CSS SP
 ======
 
-[Início](../README.md) > Conduta/regras
+[Início](../README.md) > Sobre o Meetup
 
 ## Entenda o meetup
 
@@ -10,7 +10,7 @@ Atualmente, utilizamos a plataforma do Meetup para controle das edições e list
 ### Número de participantes
 
 * Uma edição do meetup é marcada com **X** participantes.
-* Esse número **X** é definido pela empresa que irá cediar o meetup em conjunto com os organizadores, tendo como objetivo tentar agrupar o maior número de participantes mas que ao mesmo tempo mantenha um espaço agradável para que o meetup aconteça normalmente.
+* Esse número **X** é definido pela empresa que irá sediar o meetup em conjunto com os organizadores, tendo como objetivo tentar agrupar o maior número de participantes mas que ao mesmo tempo mantenha um espaço agradável para que o meetup aconteça normalmente.
 
 ### O funcionamento da lista
 
@@ -28,4 +28,4 @@ Atualmente, utilizamos a plataforma do Meetup para controle das edições e list
 
 Nós do meetup CSS tentamos ao máximo incentivar toda a comunidade, sem qualquer distinção, para participar das ediçes. Nosso objetivo é criar um ambiente agradável onde possa reinar o respeito, sem qualquer tipo de ofensa, piada ou atitude relacionada à preconceito.
 
-Atualmente nos baseamos no código de conduta da [Bocoup](http://bocoup.com/pt-BR/comunidade/conduta/) nas edições do meetup.
+Você pode conferir nosso Código de Conduta [nesse link](codigo-conduta.md)

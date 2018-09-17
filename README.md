@@ -15,7 +15,7 @@ O objetivo do repositório é reunir as principais informações, como links, fo
 * [Quero apresentar algo!](#quero-apresentar-algo)
 * [Agradecimentos](#agradecimentos)
 * [Feedback](https://meetupcss.typeform.com/to/MS87CV)
-* [Cdigo de conduta](/sobre.md#código-de-conduta)
+* [Código de conduta](codigo-conduta.md)
 
 ## Locais
 
